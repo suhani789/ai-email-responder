@@ -19,5 +19,6 @@ EMAIL_CATEGORIES = [
     "Newsletter", 
     "Work",
     "Personal",
-    "Urgent"
+    "Urgent",
+    "Placement Drive"
 ]
