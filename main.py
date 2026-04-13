@@ -55,6 +55,7 @@ def main():
                                email['sender'], email['body'], category)
         print(f"\n💬 Suggested Reply:\n{reply}")
         print("=" * 60)
+        time.sleep(15)
 
 if __name__ == "__main__":
     main()
